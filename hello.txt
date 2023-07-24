@@ -11,7 +11,7 @@ public class{
 	public void print(){
 		System.out.print("第三次新增");
 	}
-
+	hot-fix test
 	public void  gitTest(){
 		git config --list				--检查已有的配置信息
 		git config --global user.name "用户名"		--设置git用户
