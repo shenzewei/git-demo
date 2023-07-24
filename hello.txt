@@ -32,5 +32,6 @@ public class{
 	}	
 	master test
 	maeter test1
+	hot-fix test
 }
 
