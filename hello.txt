@@ -7,5 +7,9 @@ public class{
 	public static String addString(){
 		return "新增方法";
 	}
+
+	public void print(){
+		System.out.print("第三次新增");
+	}
 }
 
