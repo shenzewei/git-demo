@@ -29,6 +29,11 @@ public class{
 		git branch -v					---查看分支
 		git checkout 分支名				---切换至指定分支
 		git merge 分支名				---将指定分支合并至本分支
+		git remote -v 					--查看当前远程库地址别名
+		git remote add 别名 远程库地址			---给远程库起别名
+		git push 别名 分支 				--推送本地分支至远程库
+		git clone 远程库地址				--将远程库内容克隆至本地
+		git pull 远程库别名 远程库分支名 		--将远程库指定分支最新内容拉取下来与本地分支合并
 	}	
 	master test
 	maeter test1
