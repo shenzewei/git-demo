@@ -30,6 +30,7 @@ public class{
 		git checkout 分支名				---切换至指定分支
 		git merge 分支名				---将指定分支合并至本分支
 
-	}	
+	}
+	hot-fix test
 }
 
