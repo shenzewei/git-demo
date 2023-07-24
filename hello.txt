@@ -25,6 +25,10 @@ public class{
 		git status					---查看版本库状态
 		git commit -m"" ...txt				--提交某文件至版本库
 		git reset --hard <版本号>			---版本穿梭
+		git branch 分支名				---创建分支
+		git branch -v					---查看分支
+		git checkout 分支名				---切换至指定分支
+		git merge 分支名				---将指定分支合并至本分支
 
 	}	
 }
