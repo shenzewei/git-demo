@@ -3,4 +3,9 @@ public class{
 	public static void main(String[] args){
 		System.out.println("hello world");
 	}
+
+	public static String addString(){
+		return "新增方法";
+	}
 }
+
