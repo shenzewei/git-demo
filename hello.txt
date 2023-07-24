@@ -20,7 +20,12 @@ public class{
 		git config user.email 				-----查看git用户邮箱
 		git init  					-----初始化仓库
 		git add  ...    				-----添加文件/目录至暂存区
-		git 
-	}
+		git reflog					---查看日志
+		git log						--查看详细日志
+		git status					---查看版本库状态
+		git commit -m"" ...txt				--提交某文件至版本库
+		git reset --hard <版本号>			---版本穿梭
+
+	}	
 }
 
